@@ -1,2 +1,1 @@
 # myrepo
-first myrepo
